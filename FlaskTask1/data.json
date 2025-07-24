@@ -1,14 +1,14 @@
 [
   {
-    "id": 1,
-    "task": "Finish project report",
-    "completed": false,
-    "dueDate": "2025-07-30"
+    "productId": "P1001",
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "inStock": true
   },
   {
-    "id": 2,
-    "task": "Buy groceries",
-    "completed": true,
-    "dueDate": "2025-07-23"
+    "productId": "P1002",
+    "name": "Mechanical Keyboard",
+    "price": 45.50,
+    "inStock": false
   }
 ]
